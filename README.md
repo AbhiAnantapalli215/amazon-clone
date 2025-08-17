@@ -12,6 +12,7 @@ This is a front-end clone of the Amazon e-commerce platform, built using React a
 - React
 - HTML / CSS
 - Bootstrap
+- PHP
 
 ## 🚀 Getting Started
 
